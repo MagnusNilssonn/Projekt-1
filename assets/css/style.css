@@ -133,3 +133,16 @@ h1
     padding: 4%;
     color: black;
  }
+
+ /* gallery */
+
+ #photos {
+    clear:both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+
+ #photos > img {
+    width: 100%;
+ }
