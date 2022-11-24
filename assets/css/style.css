@@ -33,28 +33,28 @@ h1
 
 /* navigation links */
 
-#menu {
+#home {
     font-size: 130%;
     letter-spacing: 4px;
 }
 
-#menu, #logo {
+#home, #logo {
     line-height: 130px;
 }
 
-#menu li {
+#home li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
 
-#menu a 
+#home a 
 {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover {
+#home a:hover {
     border-bottom: 1px solid black;
 }
 
@@ -145,4 +145,18 @@ h1
 
  #photos > img {
     width: 100%;
+ }
+
+ /* media queries */
+
+ /* for larger to medium screens size from 950px wide and down */
+ @media screen and (max-width: 950px){
+ #home {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+ }
+    
  }
