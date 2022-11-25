@@ -12,6 +12,7 @@ body {
     font-weight: 300;
     color: black;
     background-color: #eeeeee;
+    
 }
 
 /* headings and logo */
@@ -169,4 +170,21 @@ h1
     #photos {
         column-count: 2;
     }
+}
+
+ /* menu background */
+
+#menu-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    
+}
+
+#menu-image {
+    height: 600px;
+    width: 100;
+    background: url('../images/menu-background.jpg') no-repeat center center;
+    background-size: auto 120%;
 }
