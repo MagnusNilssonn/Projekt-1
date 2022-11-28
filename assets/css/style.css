@@ -239,7 +239,7 @@ h1
 
 #menu-image {
     height: 600px;
-    width: 100;
+    width: 100%;
     background: url('../images/menu1.jpg') no-repeat center center;
     background-size: auto 100%;
 }
@@ -261,7 +261,8 @@ h1
     position:absolute;
   }
 
- /* media queries */
+  
+  /* media queries */
 
  /* for larger screens size from 1650px wide and down */
 
@@ -294,7 +295,7 @@ h1
   }
 
 #address {
-    clear: left;
+    
     float: left;
     margin-top: 20px;
     margin-left: 120px;
@@ -316,12 +317,59 @@ h1
         display: none;
     }
 
-    .form-section  {
+    .signup-form  {
         display: none;
     }
+
+
+   
 }
 
  /* For small screen sizes below 600px width */
- 
+
+ @media screen and (max-width: 600px){
+
+    #hero-image {
+        height: 600px;
+        width: 100%;
+        
+        background-size: auto 70%;
+    }
+   
+    #home {
+    font-size: 70%;
+ }
 
 
+
+ #menu-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/menu1.jpg') no-repeat center center;
+    background-size: auto 70%;
+}
+}
+ /* For small screen sizes below 500px width */
+
+@media screen and (max-width: 500px){
+   
+    #logo {
+        font-size: 150%;
+    }
+
+    #address {
+        background-color: rgba(60, 60, 60, 0.6); 
+        color:#fafafa;
+        font-size: 80%;
+        letter-spacing: 4px;
+        width: 250px;
+        height: 330px;
+        padding:20px;
+        top: 220px;
+        right: 20px;
+        position:absolute;
+      }
+
+      
+
+}
