@@ -220,7 +220,7 @@ h1
 
 #map {
    position:absolute;
-   top: 300px;
+   top:300px;
    left:780px;
     
 
@@ -263,6 +263,12 @@ h1
 
  /* media queries */
 
+ /* for larger screens size from 1650px wide and down */
+
+ @media screen and (max-width: 1600px) {
+    #map {display: none;}
+ }
+
 /* for larger to medium screens size from 950px wide and down */
  @media screen and (max-width: 950px){
  #home {
@@ -273,17 +279,49 @@ h1
     line-height: 25px;
  }
 
-  #cover-text {
+#logo {
+    clear: left;
+    float: left;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    line-height: 25px;
+ }
+
+
+#cover-text {
     right: 0px;
   }
+
+#address {
+    clear: left;
+    float: left;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+  
+
  }
 
  /* For small screen sizes below 800px width */
+
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
     }
-    
+
+    #map {
+        display: none;
+    }
+
+    .form-section  {
+        display: none;
+    }
 }
+
+ /* For small screen sizes below 600px width */
+ 
 
 
