@@ -240,7 +240,7 @@ h1
 #menu-image {
     height: 600px;
     width: 100%;
-    background: url('../images/menu1.jpg') no-repeat center center;
+    background: url("C:\Repo\Projekt-1\assets\images\Menu1.jpg") no-repeat center center;
     background-size: auto 100%;
 }
 
@@ -255,23 +255,22 @@ h1
 
     padding-top: 40px;
     padding-left: 10px;
-
-    top: 20px;
-    left: 900px;
-    position:absolute;
-  }
+}
 
   
   /* media queries */
 
  /* for larger screens size from 1650px wide and down */
 
- @media screen and (max-width: 1600px) {
+ @media screen and (max-width: 1600px){
+    
     #map {display: none;}
  }
 
 /* for larger to medium screens size from 950px wide and down */
+
  @media screen and (max-width: 950px){
+
  #home {
     clear: left;
     float: left;
@@ -345,7 +344,7 @@ h1
  #menu-image {
     height: 600px;
     width: 100%;
-    background: url('../images/menu1.jpg') no-repeat center center;
+    
     background-size: auto 70%;
 }
 }
