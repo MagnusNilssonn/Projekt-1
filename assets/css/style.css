@@ -152,7 +152,7 @@ h1
 
 .form-section {
     clear: left;
-    background: url("../images/gyros1.jpg") no-repeat center center;
+    background: url('../images/Menu1.jpg') no-repeat center center;
     background-size: auto 200%; 
     background-position: center;
     height: 600px;
@@ -240,22 +240,11 @@ h1
 #menu-image {
     height: 600px;
     width: 100%;
-    background: url("C:\Repo\Projekt-1\assets\images\Menu1.jpg") no-repeat center center;
+    background: url('../images/menu1.jpg') no-repeat center center;
     background-size: auto 100%;
 }
 
-#menu-text {
-    font-size: 130%;
-    font-family: Oswald sans-serif;
-    text-transform: lowercase;
-    letter-spacing: 4px;
 
-    width: 300px;
-    height: 200px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-}
 
   
   /* media queries */
