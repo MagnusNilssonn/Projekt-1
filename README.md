@@ -2,13 +2,21 @@
 
 TEXT
 
-![Responsice Mockup](https://i.postimg.cc/Pqy2szwL/diff-screens.png)
+![Responsice Mockup](https://i.postimg.cc/6QkDjxDW/diff-screens.png)
 
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
+### Wireframe
+
+
+
+![Mall Menu](https://i.postimg.cc/rFbz9Q88/mallmenu.png)
+![Mall Contact](https://i.postimg.cc/Bb7bkCHB/mall-pitagyros.png)
+
 ### Existing Features
+
 
 - __Navigation Bar__
 
@@ -80,7 +88,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 
 ### Lighthouse
-![Lighthouse](https://i.postimg.cc/rmpg801f/lighthouse-index.png)
+![Lighthouse](https://i.postimg.cc/sDb1Jvwb/lighthouse.png)
 
 ### Unfixed Bugs
 
