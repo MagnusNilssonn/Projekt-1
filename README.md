@@ -1,14 +1,17 @@
 # PITA GYROS
 
-TEXT
+The dream of the small genuine place that can deliver food that tastes like Greece began many years ago. Who doesn't love a pita gyro, but how do we make it simple yet good. The idea of ​​Pita Gyros is to offer the good in an accessible and creative way. The focus is on the food, you create the experience yourself, at home, on the beach, at work or wherever you are right now.
+
 
 ![Responsice Mockup](https://i.postimg.cc/6QkDjxDW/diff-screens.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
 
 ### Wireframe
+
+- I started by making two simple sketches in "one note" on my iPad to get a better overall picture of the site. During the time I worked on the project, the appearance changed a little. But the basic idea is the same.
 
 
 
@@ -20,53 +23,50 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all four pages, the full responsive navigation bar includes links to Home, Menu, Gallery, Contact and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://i.postimg.cc/hPvQ487F/navbar.png)
 
-- __The landing page image__
+- __The landing page__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph with text overlay.
+  - This section introduces the user to Pita Gyros with an eye catching animation to grab their attention.
 
 ![Landing Page](https://i.postimg.cc/hGWX0HZg/heroimage.png)
 
-- __Meny__
+- __Menu__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The first idea was to make the menu fixed on the page.
+  - But considering the ease of use for end users, I chose to make the menu as a file that can be easily renewed if needed.
 
 ![MENU](https://i.postimg.cc/W1JDg2nX/menu-media.png)
 
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Pita Gyros. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://i.postimg.cc/KvWk1Kn1/footer.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with nice pictures of dishes and inspiring environments.
+  -  I chose to use my own images from my own image archive to convey the idea and inspiration.
 
 ![Gallery](https://i.postimg.cc/g0VntN1h/gallery-media.png)
 
-- __The Sign Up Page__
+- __Contact us__
 
-  - This page will allow the user to get signed up to PITA GYROS to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to PITA GYROS newsletter, and have access to contact information. The user will be asked to submit their full name and email address. 
 
-![Contact](https://i.postimg.cc/VsDbcZvB/contact-media.png)
+![Contact](https://i.postimg.cc/gkDnyPg8/contact-us.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-### Features Left to Implement
 
-- Another feature idea
+ 
 
 ## Testing 
 
