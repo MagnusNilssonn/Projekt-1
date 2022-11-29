@@ -160,14 +160,14 @@ h1
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
     color: #fafafa;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 250px;
     position: relative;
     top:15%;
-    left: 15%;
-    padding: 30px;
 }
 
 .signup-form > h2 {
@@ -204,22 +204,6 @@ h1
     background-color: #fafafa;
     color: black;
 }
-
-#address {
-    background-color: rgba(60, 60, 60, 0.6); 
-    color:#fafafa;
-    font-size: 150%;
-    letter-spacing: 4px;
-    width: 250px;
-    height: 350px;
-    padding:30px;
-    top: 225px;
-    right:350px;
-    position:absolute;
-}
-
-
-
 
  /* menu background */
 
@@ -288,13 +272,7 @@ h1
     #photos {
         column-count: 2;
     }
-
-    .signup-form  {
-        display: none;
-    }
-
-
-   
+  
 }
 
  /* For small screen sizes below 600px width */
@@ -327,21 +305,17 @@ h1
    
     #logo {
         font-size: 150%;
-    }
+    }      
 
-    #address {
-        background-color: rgba(60, 60, 60, 0.6); 
-        color:#fafafa;
-        font-size: 80%;
-        letter-spacing: 4px;
-        width: 250px;
-        height: 330px;
-        padding:20px;
-        top: 220px;
-        right: 20px;
-        position:absolute;
-      }
+}
 
-      
+ /* For small screen sizes below 400px width */
+
+ @media screen and (max-width: 400px){
+   
+    #logo {
+        font-size: 120%;
+        
+    }      
 
 }
