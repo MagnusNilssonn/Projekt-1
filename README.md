@@ -4,7 +4,7 @@ In this section, you will include one or two paragraphs providing an overview of
 
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Responsice Mockup](C:\Repo\Projekt-1\assets\media\dif-screens.JPG)
+![Responsice Mockup](https://github.com/MagnusNilssonn/Projekt-1/tree/main/assets/media)
 
 ## Features 
 
@@ -141,3 +141,4 @@ Getting started with your Portfolio Projects can be daunting, planning your proj
 
 
 [C:\Repo\Projekt-1\assets\media\dif-screens.JPG]: C:\Repo\Projekt-1\assets\media\dif-screens.JPG
+[def]: https://github.com/MagnusNilssonn/Projekt-1/tree/main/assets/media
