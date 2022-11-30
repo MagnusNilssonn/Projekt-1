@@ -70,13 +70,12 @@ The dream of the small genuine place that can deliver food that tastes like Gree
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The first tests I did had some small errors that were easy to fix, my first lighthouse test however had a slightly worse performance rating (79). I debugged and found that the image on the start page was taking too long to load. This was fixed and the new grade was (99).
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+The site is tested on an Ipad mini, Ipad Pro, Desktop, Samsung Galaxy and Iphone Xr.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Also ran it through Jigsaw CSS Validator, W3C Html Validator and Lighthouse.
+Test results follow.
 
 
 ### Validator Testing 
@@ -86,17 +85,15 @@ If this section grows too long, you may want to split it off into a separate fil
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmagnusnilssonn.github.io%2FProjekt-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-
 ### Lighthouse
+
 ![Lighthouse](https://i.postimg.cc/sDb1Jvwb/lighthouse.png)
 
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+ 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
@@ -107,22 +104,11 @@ The live link can be found here - https://magnusnilssonn.github.io/Projekt-1/ind
 
 
 ## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- Naoise Gaffney, my mentor who gave me helpful tips and solutions during the course of the project.
+- Code Institute - For the course material and the support throughout.
+- Hero image is from https://www.istockphoto.com/.
+- Fonts is from Google Fonts.
+- All other pictures is my own.
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 
