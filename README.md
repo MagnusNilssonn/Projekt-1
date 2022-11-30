@@ -107,6 +107,7 @@ The live link can be found here - https://magnusnilssonn.github.io/Projekt-1/ind
 - Naoise Gaffney, my mentor who gave me helpful tips and solutions during the course of the project.
 - Code Institute - For the course material and the support throughout.
 - Hero image is from https://www.istockphoto.com/.
+- Contact Us background picture is from https://www.istockphoto.com/.
 - Fonts is from Google Fonts.
 - All other pictures is my own.
 
